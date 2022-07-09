@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">"Rocky &amp; Morty"</string>
     <string name="iv_description">Ricky e Morty entrando numa outra dimensão psicodélica.</string>
+    <string name="text_name">Nome: ${}</string>
+    <string name="text_status">Status: ${}</string>
+    <string name="text_species">Espécie: ${}</string>
+    <string name="text_genre">Gênero: ${}</string>
+    <string name="character_name">TODO</string>
+
 </resources>

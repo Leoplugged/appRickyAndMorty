@@ -1,10 +1,9 @@
-package br.com.zup.apprickymorty.iu.view
+package br.com.zup.apprickymorty.ui.view
 
 import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.com.zup.apprickymorty.HomeActivity
 import br.com.zup.apprickymorty.R
 import java.util.*
 
