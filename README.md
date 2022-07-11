@@ -21,9 +21,9 @@ Os habitantes de SimCity descobriram uma nova série (que talvez para nós não 
 
 [DONE] . tela de splash que irá ter um tempo de apresentação de 3 segundos;
 
-. tela principal com o título de Rick and Morty na actionBar;
+[DONE] . tela principal com o título de Rick and Morty na actionBar;
 
-. na tela principal, uma lista em formato de grade contendo os personagens da série Rick and Morty;
+[on going]. na tela principal, uma lista em formato de grade contendo os personagens da série Rick and Morty;
 
 . na lista da tela principal, cada item da lista precisa possuir imagem do personagem e o seu nome abaixo da imagem centralizado;
 
